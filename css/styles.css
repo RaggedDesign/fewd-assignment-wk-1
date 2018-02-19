@@ -1,0 +1,75 @@
+body {
+  font-family: 'Josefin Slab', serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 70px;
+  line-height: 10px;
+  padding: 0px 0px 20px 0px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px
+}
+
+h3 {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 20px;
+}
+
+section {
+  text-align: left;
+  padding: 0px 500px 80px 500px;
+  clear: none;
+}
+
+/* Links  */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+}
+
+/* List styles*/
+.navigation {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+
+/* Nav styles*/
+.menu {
+  padding: 80px 0px 0px 0px;
+}
+
+.social {
+  text-align: center;
+  padding: 50px 0px 0px 0px;
+}
+
+/* Image styles*/
+.profile {
+  float: right;
+  margin: 0px 0px 0px 10px;
+}
+
+.portfolio {
+  text-align: center;
+  padding: 10px 0px 0px 0px;
+}
+
+/* Span classes*/
+.job {
+  font-weight: 700;
+}
+
+.dates {
+  font-style: italic;
+  float: right;
+ }
